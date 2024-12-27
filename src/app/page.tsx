@@ -67,15 +67,7 @@ export default function Home() {
 									</LetterFx>
 								</span>
 							</Heading>
-							<Button
-								id="readDocs"
-								href="https://once-ui.com/docs"
-								variant="secondary">
-								<Flex alignItems="center">
-									Read docs
-									<Arrow trigger="#readDocs"/>
-								</Flex>
-							</Button>
+							
 						</Flex>
 					</Flex>
 					<Grid
@@ -121,20 +113,11 @@ export default function Home() {
 				justifyContent="space-between">
 				<Text
 					variant="body-default-s" onBackground="neutral-weak">
-					© 2024 Once UI, <Link href="https://github.com/once-ui-system/nextjs-starter?tab=MIT-1-ov-file">MIT License</Link>
+					© 2024 pyrodotfun, <Link href="https://github.com/pyrodotfun">MIT License</Link>
 				</Text>
 				<Flex
 					gap="12">
-					<Button
-						href="https://github.com/once-ui-system/nextjs-starter"
-						prefixIcon="github" size="s" variant="tertiary">
-						GitHub
-					</Button>
-					<Button
-						href="https://discord.com/invite/5EyAQ4eNdS"
-						prefixIcon="discord" size="s" variant="tertiary">
-						Discord
-					</Button>
+					
 				</Flex>
 			</Flex>
 		</Flex>

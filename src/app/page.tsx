@@ -8,19 +8,19 @@ import Link from 'next/link';
 export default function Home() {
 	const links = [
 		{
-			href: "https://once-ui.com/docs/theming",
-			title: "Themes",
-			description: "Style your app in minutes.",
+			href: "https://x.com/pyrodotfun",
+			title: "Follow our X",
+			description: "Keep up to date with updates and interact with our team.",
 		},
 		{
 			href: "https://once-ui.com/docs/flexComponent",
-			title: "Layout",
-			description: "Build responsive layouts.",
+			title: "$PYRO on pumpfun",
+			description: "View our token.",
 		},
 		{
 			href: "https://once-ui.com/docs/typography",
-			title: "Typography",
-			description: "Scale text automatically.",
+			title: "Documents",
+			description: "Learn about our project.",
 		},
 	];
 
@@ -55,7 +55,7 @@ export default function Home() {
 									width: 'fit-content',
 									padding: 'var(--static-space-8) var(--static-space-16)',
 									backdropFilter: 'blur(var(--static-space-1))'}}>
-								Start by editing <span className="brand-on-background-medium">app/page.tsx</span>
+								$PYRO <span className="brand-on-background-medium">CA</span>
 							</InlineCode>
 							<Heading
 								wrap="balance"
@@ -63,7 +63,7 @@ export default function Home() {
 								<span className="font-code">
 									<LetterFx
 										trigger="instant">
-										Helping designers code and developers design
+										Revolutionizing AI skirmish, testing the waters of evolution.
 									</LetterFx>
 								</span>
 							</Heading>
